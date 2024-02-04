@@ -88,6 +88,7 @@
    </p>
             <div xml:id="kzz7yh-f27784-Dd1e149">
                <head xml:id="kzz7yh-f27784-Hd1e151">Quaestio 1</head>
+               <head type="question-title">Ostendo quod angeli non loquuntur adinuicem</head>
                <p xml:id="kzz7yh-f27784-d1e153">
       ¶ Questio I. 
       <lb ed="#V" n="45"/>PRimo ostendo quod angeli non loquuntur 
@@ -131,7 +132,7 @@
       <lb ed="#V" n="72"/>due ino dcentuo duint dinicee eec. 
    </p>
                <p xml:id="kzz7yh-f27784-d1e229">
-                  <lb ed="#V" n="73"/>Contra Globus super illud prima ad Cori. 3. Si 
+                  <lb ed="#V" n="73"/>Contra Globus super illud prima ad Cori. 13. Si 
       lin<lb ed="#V" n="74" break="no"/>guis hominum loquar etc. Dicit quod angeli potet 
       <lb ed="#V" n="75"/>positi significant minoribus quod de dei voluntate primi 
       sen<lb ed="#V" n="76" break="no"/>tiunt: quod sit aliquibus nutibus aut signis. Si locutio est 
@@ -145,8 +146,8 @@
       <lb ed="#V" n="81"/>loquere ad puerum istum. 
    </p>
                <p xml:id="kzz7yh-f27784-d1e254">
-                  <lb ed="#V" n="82"/>Respondeo quod angeliloquuntur adinuicem. Eu 
-      <lb ed="#V" n="83"/>ius ratio est: quia locutio est 
+                  <lb ed="#V" n="82"/>Respondeo quod angeli loquuntur adinuicem. 
+      Cu<lb ed="#V" n="83" break= "no"/>ius ratio est: quia locutio est 
       conce<lb ed="#V" n="84" break="no"/>ptus manifestatio. Ergo cum vnus angelus suum 
       conce<lb ed="#V" n="85" break="no"/>ptum alii manifestat ex intentione eidem loquitur. 
       Ange<lb ed="#V" n="86" break="no"/>li autem aliquos conceptus suos sibi adinuicem manifestant: ergo et 
@@ -298,13 +299,14 @@
             </div>
             <div xml:id="kzz7yh-f27784-Dd1e546">
                <head xml:id="kzz7yh-f27784-Hd1e548">Quaestio 2</head>
+               <head type="question-title">Utrum angeli superiores illuminent inferiores</head>
                <p xml:id="kzz7yh-f27784-d1e550">
       ¶ Quaestio II. 
-      <lb ed="#V" n="63"/>Ecundo queritur vtrum angeli 
+      <lb ed="#V" n="63"/>SEcundo queritur vtrum angeli 
       superio<lb ed="#V" n="64" break="no"/>res illuminent inferiores. Et 
-      <lb ed="#V" n="65"/>videtur quod non. Greg. 2. Motr. parum post 
+      <lb ed="#V" n="65"/>videtur quod non. Greg. 2. Mor. parum post 
       princi<lb ed="#V" n="66" break="no"/>pium loquens de angelis sanctis ait: quid de 
-      hi<lb ed="#V" n="67" break="no"/>que scienda sunt nesciunt: qui scientem omnia sciunt. Sed 
+      hi<!--Weird symbol?--><lb ed="#V" n="67" break="no"/>que scienda sunt nesciunt: qui scientem omnia sciunt. Sed 
       <lb ed="#V" n="68"/>qui omnia scit a nullo potest illuminari: quia qui illumipa¬ 
       <!--00092.xml-->
       <cb ed="#P" n="b"/>
@@ -479,6 +481,8 @@
             </div>
             <div xml:id="kzz7yh-f27784-Dd1e884">
                <head xml:id="kzz7yh-f27784-Hd1e886">Quaestio 3</head>
+               <head type="question-title">Enter question head here</head>
+               <!--Left off here-->
                <p xml:id="kzz7yh-f27784-d1e888">
       ¶ Quaestio III. 
       <lb ed="#V" n="54"/>Tertio queritur vtrum angeli in 
