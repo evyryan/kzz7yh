@@ -55,8 +55,8 @@
          <div xml:id="kzz7yh-f54682"><!-- l2d18a2 -->
             <head xml:id="kzz7yh-f54682-Hd1e101">Articulus 2</head>
             <p xml:id="kzz7yh-f54682-d1e103">
-               <lb ed="#V" n="42"/>Consequenter queritur de. secundo 
-      <lb ed="#V" n="43"/>principali. t 
+               <lb ed="#V" n="42"/>COnsequenter queritur de. secundo 
+      <lb ed="#V" n="43"/>principali. <!--word scraped away here?-->t 
       cir<lb ed="#V" n="44" break="no"/>ca hoc queruntur tria.
    </p>
             <p xml:id="kzz7yh-f54682-d1e112">
@@ -74,12 +74,13 @@
    </p>
             <div xml:id="kzz7yh-f54682-Dd1e132">
                <head xml:id="kzz7yh-f54682-Hd1e134">Quaestio 1</head>
+               <head type="question-title">Utrum omnium hominum sit anima una numero</head>
                <p xml:id="kzz7yh-f54682-d1e136">
       Quaesio I. 
       <lb ed="#V" n="50"/>PRimo ostendo quod omnium homium 
       <lb ed="#V" n="51"/>sit anima vna 
-      nume<lb ed="#V" n="52" break="no"/>ro philosophus. 3. meta. vult quod omnis diuisio: aut est secundum 
-      quam<lb ed="#V" n="53" break="no"/>titatem aut secundum speciem: numeratio autem includit 
+      nume<lb ed="#V" n="52" break="no"/>ro <ref>philosophus. 3. meta.</ref> vult quod omnis diuisio: aut est secundum 
+      quan<lb ed="#V" n="53" break="no"/>titatem aut secundum speciem: numeratio autem includit 
       diui<lb ed="#V" n="54" break="no"/>sionem. Cum ergo in anima non sit quantitas nec diuersitas secundum 
       <lb ed="#V" n="55"/>speciem videtur quod omnium hominum sit anima vna numero.
    </p>
@@ -103,9 +104,9 @@
       <lb ed="#V" n="65"/>nisi omnium corporum humanorum esset anima numero vna. 
    </p>
                <p xml:id="kzz7yh-f54682-d1e182">
-                  <lb ed="#V" n="66"/>Contra Auic. 6 naturalium. libr. 5. cap. 3. dicit quod cum 
+                  <lb ed="#V" n="66"/>Contra <ref>Auic. 6 naturalium. lib. 5. cap. 3.</ref> dicit quod cum 
       <lb ed="#V" n="67"/>fuerit duo corpora acquirerentur eis due anime 
-      <lb ed="#V" n="68"/>et paucis interpositis: postea subdit quod vuam animam in nu¬ 
+      <lb ed="#V" n="68"/>et paucis interpositis: postea subdit quod vuam<!--word?--> animam in nu¬ 
       <!--00166.xml-->
       <cb ed="#P" n="b"/>
                   <lb ed="#V" n="69"/>mero esse in duobus corporibus: hoc per se patet esse falsum.
@@ -117,7 +118,7 @@
       <lb ed="#V" n="72"/>ergo illorum non est intellectus numero vnus. 
    </p>
                <p xml:id="kzz7yh-f54682-d1e207">
-                  <lb ed="#V" n="73"/>Respondeo quod plurium hominum impossle est esse 
+                  <lb ed="#V" n="73"/>Respondeo quod plurium hominum impossibile est esse 
       <lb ed="#V" n="74"/>vnam animam in numero: sicut 
       osten<lb ed="#V" n="75" break="no"/>dunt rationes facte ad hanc partem: et sic patet quod ade et eue non 
       fu<lb ed="#V" n="76" break="no"/>it anima numero vna. hoc autem conclusio sequitur ex quadam conclusione superius 
@@ -162,6 +163,8 @@
             </div>
             <div xml:id="kzz7yh-f54682-Dd1e286">
                <head xml:id="kzz7yh-f54682-Hd1e288">Quaestio 2</head>
+               <head type="question-title">Utrum anima eue fuerit [word] de anima ade</head>
+               <!--TODO: Start here-->
                <p xml:id="kzz7yh-f54682-d1e290">
       Quaesio II. 
       <lb ed="#V" n="103"/>SEcundo quaeritur vtrum anima eue fuerit 
