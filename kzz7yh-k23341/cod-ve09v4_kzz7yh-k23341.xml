@@ -56,7 +56,7 @@
             <head xml:id="kzz7yh-k23341-Hd1e101">Articulus 3</head>
             <p xml:id="kzz7yh-k23341-d1e103">
      Articulus III. 
-      Ar<lb ed="#V" n="97" break="no"/>COnsequenter queritur de 3e principali. 
+      Ar<lb ed="#V" n="97" break="no"/>COnsequenter queritur de tertio principali. 
       <lb ed="#V" n="98"/>Et circa hoc quaeruntur 4 
    </p>
             <p xml:id="kzz7yh-k23341-d1e110">
@@ -75,6 +75,7 @@
    </p>
             <div xml:id="kzz7yh-k23341-Dd1e131"><!-- l4d1a3q1 -->
                <head xml:id="kzz7yh-k23341-Hd1e134">Quaestio 1</head>
+               <head type="question-title">Utrum omnes cerimonie <!--word--> vel erant sacramenta</head>
                <p xml:id="kzz7yh-k23341-d1e136">
       Quaestio I.
     </p>
@@ -87,14 +88,14 @@
       <lb ed="#V" n="106"/>ve l. sacrificia erant sacramenta: ergo ai simili omnes alie cerionie. 
    </p>
                <p xml:id="kzz7yh-k23341-d1e152">
-                  <lb ed="#V" n="107"/>Contra sicut potest colligi ex diuersis locis in il.t vete. 
-      <lb ed="#V" n="108"/>ri cerimonie ver let distinguebantur in sacra et 
+                  <lb ed="#V" n="107"/>Contra sicut potest colligi ex diuersis locis in <!--word-->  
+      vete<lb ed="#V" n="108" break="no"/>ri cerimonie ver let distinguebantur in sacra et 
       sacri<lb ed="#V" n="109" break="no"/>ficia et obseruantias et sacramenta: non omnes ergo cerionie verisl. erant sacramenta. 
    </p>
                <p xml:id="kzz7yh-k23341-d1e162">
-                  <lb ed="#V" n="110"/>¶ Rspondeo quod cerimonie ve liet ad cultum dei ordinabantur. 
+                  <lb ed="#V" n="110"/>¶ Respondeo quod cerimonie ve liet<!--word--> ad cultum dei ordinabantur. 
       <lb ed="#V" n="111"/>Circa quae consideranda sunt tria: ipse cultus et 
-      colen<lb ed="#V" n="112" break="no"/>tes: et insttera colendi. Ipiste autem cultus specialiter consistebant in sacrificiis 
+      colen<lb ed="#V" n="112" break="no"/>tes: et instrumenta<!--word--> colendi. Ipiste autem cultus specialiter consistebant in sacrificiis 
       <lb ed="#V" n="113"/>que in dei reuerentiam offerebantur. Insttra autem colendi 
       pertine<lb ed="#V" n="114" break="no"/>bant ad sacra sicut erant tabernaculum: candelabrum: et arca et 
       <lb ed="#V" n="115"/>mensa et vasa etc.
@@ -128,7 +129,8 @@
       <lb ed="#V" n="132"/>sed quaedam pertinebant ad sacra: quaedam ad sacrificia: quaedam ad 
       obser<lb ed="#V" n="133" break="no"/>uantias quaedam ad sacramenta. Sed extendendo nomen sacramenti ad omne signum 
       <lb ed="#V" n="134"/>rei sacre omnes cerimonie vetrsl. erant sacramenta. 
-      <lb ed="#V" n="135"/>Ex dictis patet soltio ad prteniam.
+      <!--Add paragraph-->
+      <lb ed="#V" n="135"/>Ex dictis patet solitertio<!--word--> ad primum.
    </p>
                <p xml:id="kzz7yh-k23341-d1e231">
       ¶ Ad 2m dicendum quod aliqn 
@@ -143,15 +145,16 @@
             </div>
             <div xml:id="kzz7yh-k23341-Dd1e250"><!-- l4d1a3q2 -->
                <head xml:id="kzz7yh-k23341-Hd1e253">Quaestio 2</head>
+               <head type="question-title">Utrum sacramenta <!--word--> erant rationabilia</head>
                <p xml:id="kzz7yh-k23341-d1e255">
       Quaestio II
     </p>
                <p xml:id="kzz7yh-k23341-d1e257">
-                  <lb ed="#V" n="2"/>SEcundo quaeritur vtrum sacramenta veilet erant 
-      rationa<lb ed="#V" n="3" break="no"/>bilia. Et videtur quod non: quia nihil est rationa 
-      <lb ed="#V" n="4"/>bile quod pertinet ad leuitatem: sed comedere festinanter 
+                  <lb ed="#V" n="2"/>SEcundo quaeritur vtrum sacramenta veilet<!--word--> erant 
+      rationa<lb ed="#V" n="3" break="no"/>bilia. Et videtur quod non: quia nihil est  
+      rationa<lb ed="#V" n="4" break="no"/>bile quod pertinet ad leuitatem: sed comedere festinanter 
       <lb ed="#V" n="5"/>ad leuitatem pertinet: ergo irrationabile fuit illud: quod 
-      <lb ed="#V" n="6"/>preceptum est exo 1n2 scilicet quod agnum paschalem comederent festinam 
+      <lb ed="#V" n="6"/>preceptum est <ref>exo 12</ref> scilicet quod agnum paschalem comederent festinam 
       <lb ed="#V" n="7"/>ter.
    </p>
                <p xml:id="kzz7yh-k23341-d1e273">
@@ -170,14 +173,14 @@
    </p>
                <p xml:id="kzz7yh-k23341-d1e299">
                   <lb ed="#V" n="17"/>Contra. omne factum in sapientia est rationabile: sed deus 
-      <lb ed="#V" n="18"/>ominia illa sacramenta istituit in sapientia: dicit enim 
+      <lb ed="#V" n="18"/>omnia illa sacramenta instituit in sapientia: dicit enim 
       <lb ed="#V" n="19"/>psal. ad deum. Omnia in sapientia fecisti: ergo omnia sacramena ve l. 
       <lb ed="#V" n="20"/>fuerunt rationabilia. 
    </p>
                <p xml:id="kzz7yh-k23341-d1e310">
                   <lb ed="#V" n="21"/>Respondeo quod aliquod factum dupliter potest dici 
       rationa<lb ed="#V" n="22" break="no"/>bile: vno modo quia de naturali 
-      dicta<lb ed="#V" n="23" break="no"/>mine recte rationis: sicut principia .l. nature et conclusiones que se 
+      dicta<lb ed="#V" n="23" break="no"/>mine recte rationis: sicut principia .l.<!--word--> nature et conclusiones que se 
       <lb ed="#V" n="24"/>quuntur ex eis: et sic non omnia sacramenta ve slices fuerunt ratio 
       <lb ed="#V" n="25"/>nabilia: quia non omnia fuerunt de dictamine l. nature. 
    </p>
@@ -188,8 +191,8 @@
       <lb ed="#V" n="29"/>sacramenta ve scilices fuerunt rationabilia. 
     </p>
                <p xml:id="kzz7yh-k23341-d1e334">
-                  <lb ed="#V" n="30"/>Ad primum in oppositum dicendum: quod sestinantia in 
-      come<lb ed="#V" n="31" break="no"/>dendo quando subest rationabitu causa non 
+                  <lb ed="#V" n="30"/>Ad primum in oppositum dicendum: quod festinantia in 
+      come<lb ed="#V" n="31" break="no"/>dendo quando subest rationabile causa non 
       <lb ed="#V" n="32"/>pertinet ad leuitatem: rationabilis autem fuit causa quare agnum in 
       exitu<lb ed="#V" n="33" break="no"/>eorum de egypto comederunt festinanter: quia egyptii eos 
       festi<lb ed="#V" n="34" break="no"/>nanter exire compellebant: et in rememoratione huius etiam 
@@ -234,16 +237,17 @@
             </div>
             <div xml:id="kzz7yh-k23341-Dd1e421"><!-- l4d1a3q3 -->
                <head xml:id="kzz7yh-k23341-Hd1e424">Quaestio 3</head>
+               <head type="question-title">Utrum sacramenta <!--word--> curabant a corporali immunditia</head>
                <p xml:id="kzz7yh-k23341-d1e426">
       ¶ Questio. III 
     </p>
                <p xml:id="kzz7yh-k23341-d1e428">
                   <lb ed="#V" n="66"/>TErtio queritur vtrum sacramenti vel li. 
-      <lb ed="#V" n="67"/>curabant a corporali immuuditia. 
+      <lb ed="#V" n="67"/>curabant a corporali immunditia. 
    </p>
                <p xml:id="kzz7yh-k23341-d1e435">
                   <lb ed="#V" n="68"/>Respondeo quod sic: quia ceteris 
-      pari<lb ed="#V" n="69" break="no"/>bus quod tarum est earius 
+      pari<lb ed="#V" n="69" break="no"/>bus quod rarum est earius 
       <!--00036.xml-->
       <cb ed="#V" n="b"/>
                   <lb ed="#V" n="70"/>est: ideo vetu ea que pertinebant ad cultum dei in maiori 
@@ -265,15 +269,16 @@
             </div>
             <div xml:id="kzz7yh-k23341-Dd1e480"><!-- l4d1a3q4 -->
                <head xml:id="kzz7yh-k23341-Hd1e483">Quaestio 4</head>
+               <head type="question-title">Utrum susceptione sacramentorum <!--word--> conferebatur gratia</head>
                <p xml:id="kzz7yh-k23341-d1e485">
       Questio. IIII.
     </p>
                <p xml:id="kzz7yh-k23341-d1e487">
-                  <lb ed="#V" n="85"/>Uarto queritur vtrum in susceptione sacramentum 
-      <lb ed="#V" n="86"/>ve li. conferebatur gratia: et videtur quod sic: quia 
+                  <lb ed="#V" n="85"/>QUarto queritur vtrum in susceptione sacramentorum
+      <lb ed="#V" n="86"/>ve li.<!--word--> conferebatur gratia: et videtur quod sic: quia 
       <lb ed="#V" n="87"/>per opera que deo sunt accepta confertur a deo 
-      ho<lb ed="#V" n="88" break="no"/>mini gratia: sed sacramenta vet scl.s non erant minus digna quam 
-      <lb ed="#V" n="89"/>sacramenta ili est nature: que tamen deo erant accepta. dicitur. n. Ge. 4 quod 
+      ho<lb ed="#V" n="88" break="no"/>mini gratia: sed sacramenta vet scl.s<!--word--> non erant minus digna quam 
+      <lb ed="#V" n="89"/>sacramenta <!--word--> nature: que tamen deo erant accepta. dicitur. n. Ge. 4 quod 
       as<lb ed="#V" n="90" break="no"/>pexit deus ad Abel et ad munera eius: ergo in susceptione 
       <lb ed="#V" n="91"/>sacramentorum ve l. conferebatur gratia.
    </p>
@@ -296,10 +301,11 @@
       <lb ed="#V" n="100"/>susceptione sacramentotum ve l. 
    </p>
                <p xml:id="kzz7yh-k23341-d1e533">
-                  <lb ed="#V" n="101"/>Contra adro. 3. Ex operibus l. non iustificabitur omnis 
-      ca<lb ed="#V" n="102" break="no"/>ro: sed sacramenta erant quedam opera scl.t ergo in 
+                  <lb ed="#V" n="101"/>Contra ad <ref>ro. 3.</ref> Ex operibus scilicet non iustificabitur omnis 
+      ca<lb ed="#V" n="102" break="no"/>ro: sed sacramenta erant quedam opera scilicet ergo in 
       susce<lb ed="#V" n="103" break="no"/>ptione illorum sacramentorum iustificans gratia non conferebatur.
    </p>
+   <!--Left off here, .l. is scilicet-->
                <p xml:id="kzz7yh-k23341-d1e542">
       ¶ Item 
       <lb ed="#V" n="104"/>apostolus ad hebre. x. dicit: quod l. erat vmbram habens futurorum 
@@ -308,7 +314,7 @@
    </p>
                <p xml:id="kzz7yh-k23341-d1e551">
                   <lb ed="#V" n="107"/>Ad istam questionem dixerunt aliqui quod in susceptione 
-      <lb ed="#V" n="108"/>sacramentorum vei l. conferebatur gratia: non 
+      <lb ed="#V" n="108"/>sacramentorum ve scilicet conferebatur gratia: non 
       <lb ed="#V" n="109"/>tamen ita plene: nec ita directe sicut in susceptione sacramentorum 
       <lb ed="#V" n="110"/>no l. cuius opinionis rationi videtur assentire Hu primo libro de 
       sacra<lb ed="#V" n="111" break="no"/>parte. xi. capi. 2. dicens: quod mediantibus sacramentis no l. illa praipris 
